@@ -10,7 +10,7 @@
  a is identifier,
  b is identifier
  = is Assignment operator
- 580 is digit,
+ 607 is digit,
  c is identifier
  = is Assignment operator
  1000 is digit;
@@ -18,8 +18,8 @@
  My is identifier 
  name is identifier 
  is is identifier 
- pavan is identifier.
- Sai is identifier");
+ Kotha is identifier.
+ Abhinay is identifier");
  if is identifier((
  a is identifier+
  b is identifier)
